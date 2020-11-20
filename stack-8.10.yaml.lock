@@ -9,12 +9,12 @@ packages:
     version: 0.0.3
     git: https://github.com/mbj/devtools-hs.git
     pantry-tree:
-      size: 869
-      sha256: b847986f0f776015dda8c91c906ba86052b8ae1f6f6252c69b98abaacc8b8369
-    commit: 5d7846e1e01552ea9577230982aa12715729ad57
+      size: 1058
+      sha256: 6ac48504aea8c96de3065e782f644d079be919cf7e6925c5f99d9ea2525a19d2
+    commit: 5b438e5adb4decc9fe8011a0aa96929fba39a87a
   original:
     git: https://github.com/mbj/devtools-hs.git
-    commit: 5d7846e1e01552ea9577230982aa12715729ad57
+    commit: 5b438e5adb4decc9fe8011a0aa96929fba39a87a
 - completed:
     hackage: source-constraints-0.0.2@sha256:5746921c48cde021cd9120fc917dd21768fa6f3716f9d09fc847cac3c6f5d4e4,3103
     pantry-tree:
