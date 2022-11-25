@@ -1,5 +1,3 @@
-![CI](https://github.com/mbj/mprelude/workflows/CI/badge.svg)
+# LEGACY REPOSITORY
 
-# mprelude
-
-Experimental prelude. Boring, may be its main attribute.
+Development was moved to [mhs](https://github.com/mbj/mhs/tree/main/mprelude).
